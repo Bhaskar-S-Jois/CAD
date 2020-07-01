@@ -1,2 +1,2 @@
 # CAD
-All CAD projects
+All CAD projects designed using Solid Edge ST10
